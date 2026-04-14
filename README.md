@@ -39,3 +39,19 @@ Programming Examples From C++ Programming: From Problem Analysis to Program Desi
 - **Compile Command:** g++ CH14EX10.cpp -o EX10  
 - **Run Command:** ./EX10  
 
+**CH14EX11** - Using a user-defined exception class `divisionByZero.h` (with try/catch)  
+- **Compile Command:** g++ CH14EX11.cpp -o EX11  
+- **Run Command:** ./EX11  
+
+**CH14EX12** - Using a user-defined exception class `divisionByZero.h` (with try/catch and specific error message)  
+- **Compile Command:** g++ CH14EX12.cpp -o EX12  
+- **Run Command:** ./EX12  
+
+**CH14EX13** - Handling an exception, thrown by a function using a user-defined exception class `divisionByZero.h` (with try/catch and specific error message)  
+- **Compile Command:** g++ CH14EX13.cpp -o EX13  
+- **Run Command:** ./EX13  
+
+**CH14EX15** - Handling an exception in the main function, thrown by another function using a user-defined exception class `divisionByZero.h` (with try/catch and specific error message)  
+- **Compile Command:** g++ CH14EX15.cpp -o EX15  
+- **Run Command:** ./EX15  
+
