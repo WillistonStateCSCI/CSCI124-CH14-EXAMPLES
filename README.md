@@ -19,3 +19,23 @@ Programming Examples From C++ Programming: From Problem Analysis to Program Desi
 - **Compile Command:** g++ CH14EX05.cpp -o EX05  
 - **Run Command:** ./EX05  
 
+**CH14EX06** - Division by Zero (with try/catch and throw)  
+- **Compile Command:** g++ CH14EX06.cpp -o EX06  
+- **Run Command:** ./EX06  
+
+**CH14EX07** - Division by Zero, Division by a Negative Integer and Input Failure (with try/catch)  
+- **Compile Command:** g++ CH14EX07.cpp -o EX07  
+- **Run Command:** ./EX07  
+
+**CH14EX08** - Out of Range and Length Error Exceptions (with try/catch)  
+- **Compile Command:** g++ CH14EX08.cpp -o EX08  
+- **Run Command:** ./EX08  
+
+**CH14EX09** - Handling Bad Allocation exception thrown by the operator *new* (with try/catch)  
+- **Compile Command:** g++ CH14EX09.cpp -o EX09  
+- **Run Command:** ./EX09  
+
+**CH14EX10** - Using a user-defined exception class (with try/catch)  
+- **Compile Command:** g++ CH14EX10.cpp -o EX10  
+- **Run Command:** ./EX10  
+
