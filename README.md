@@ -47,11 +47,31 @@ Programming Examples From C++ Programming: From Problem Analysis to Program Desi
 - **Compile Command:** g++ CH14EX12.cpp -o EX12  
 - **Run Command:** ./EX12  
 
-**CH14EX13** - Handling an exception, thrown by a function using a user-defined exception class `divisionByZero.h` (with try/catch and specific error message)  
+**CH14EX13** - Handling an exception, thrown by a function using a user-defined exception class `divisionByZero.h`.   
 - **Compile Command:** g++ CH14EX13.cpp -o EX13  
 - **Run Command:** ./EX13  
 
-**CH14EX15** - Handling an exception in the main function, thrown by another function using a user-defined exception class `divisionByZero.h` (with try/catch and specific error message)  
+**CH14EX15** - Handling an exception in the main function, thrown by another function using a user-defined exception class `divisionByZero.h`.  
 - **Compile Command:** g++ CH14EX15.cpp -o EX15  
 - **Run Command:** ./EX15  
+
+**CH14EX16** - Handling an exception in the main function, thrown by another function using a user-defined exception class `divisionByZero.h`.  The function throws a different exception object.  
+- **Compile Command:** g++ CH14EX16.cpp -o EX16  
+- **Run Command:** ./EX16  
+
+**CH14EX16** - Handling an exception in the main function, thrown by another function using a user-defined exception class `divisionByZero.h`.  The function throws a different exception object.  
+- **Compile Command:** g++ CH14EX16.cpp -o EX16  
+- **Run Command:** ./EX16  
+
+**CH14EX17** - Handle exceptions by fixing the errors.  The program continues to prompt until a valid input is entered.  
+- **Compile Command:** g++ CH14EX17.cpp -o EX17  
+- **Run Command:** ./EX17  
+
+**CH14EX18** - Processing exceptions thrown by a function in the calling environment using `myException.h`.  
+- **Compile Command:** g++ CH14EX18.cpp -o EX18  
+- **Run Command:** ./EX18  
+
+**CH14EX19** - Processing exceptions thrown by a function in the immediate calling environment using `myException.h`.  
+- **Compile Command:** g++ CH14EX19.cpp -o EX19  
+- **Run Command:** ./EX19  
 
